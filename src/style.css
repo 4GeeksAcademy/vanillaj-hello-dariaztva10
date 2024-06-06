@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#excuse {
+  background-color: rgb(248, 189, 239);
+  padding: 1%;
+  border-radius: 50px;
+  font-size: 30px;
+}
+
+p {
+  background-color: #fff8dc;
+  padding: 1%;
+  border-radius: 6px;
+}
